@@ -59,5 +59,5 @@ A comprehensive web-based library management system with C++ backend support, bu
 1. **Download and Extract**
 ```bash
    cd /var/www/html
-   git clone <repository-url> library-management-system
+   git clone https://github.com/Serp3n7/library-management-system.git
    cd library-management-system
