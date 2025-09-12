@@ -1,6 +1,4 @@
-# Library Management System
-
-A comprehensive web-based library management system with C++ backend support, built for educational purposes.
+![library-management-system](https://socialify.git.ci/Serp3n7/library-management-system/image?custom_description=A+comprehensive+web-based+library+management+system+with+C%2B%2B+backend+support%2C+built+for+educational+purposes.&custom_language=C%2B%2B&description=1&font=JetBrains+Mono&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Dark)
 
 ## Features
 
